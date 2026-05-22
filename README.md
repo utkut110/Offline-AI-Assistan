@@ -1,4 +1,5 @@
-<img width="779" height="190" alt="image" src="https://github.com/user-attachments/assets/3e9f833f-0fb9-4a93-948f-97b78f3cd4be" />
+<img width="773" height="158" alt="image" src="https://github.com/user-attachments/assets/cd1f7210-d88b-4715-980c-434b08a1406c" />
+
 
 
 # 🤖 Yerel Yapay Zeka Asistanı
