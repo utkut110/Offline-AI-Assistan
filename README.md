@@ -1,3 +1,6 @@
+<img width="779" height="190" alt="image" src="https://github.com/user-attachments/assets/3e9f833f-0fb9-4a93-948f-97b78f3cd4be" />
+
+
 # 🤖 Yerel Yapay Zeka Asistanı
 
 Tamamen offline çalışan, Ollama tabanlı terminal yapay zeka asistanı.
